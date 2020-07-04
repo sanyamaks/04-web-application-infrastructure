@@ -1,5 +1,5 @@
-# https://sanyamaks.github.io/04-web-application-infrastructure/
-04. Инфраструктура веб-приложений (Яндекс.Практикум)
+# 04. Инфраструктура веб-приложений. Проектная работа 10. (Яндекс.Практикум)
+https://sanyamaks.github.io/04-web-application-infrastructure/
 
 ### version 0.0.2
 
