@@ -1,5 +1,4 @@
-# 04. Инфраструктура веб-приложений. Проектная работа 10. (Яндекс.Практикум)
-https://sanyamaks.github.io/04-web-application-infrastructure/
+# 04. Инфраструктура веб-приложений. Регулярные выражения. Git. (Яндекс.Практикум. Проектная работа №11)
 
 ### version 0.0.2
 
@@ -11,3 +10,10 @@ https://sanyamaks.github.io/04-web-application-infrastructure/
 ### version 0.0.1
 
 * Add StartKit
+
+## О проекте:
+Проект для изучения регулярных выражений и основ git'a.
+
+
+## Ссылка на github pages:
+https://sanyamaks.github.io/04-web-application-infrastructure/
